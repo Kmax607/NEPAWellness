@@ -55,7 +55,7 @@ body {
 }
 
 .logo {
-    max-width: 400px; /* Increase the maximum width of the logo */
+    max-width: 350px; /* Increase the maximum width of the logo */
     height: auto;
     *margin-bottom: -10px; /* Add margin-bottom to reduce space */
 }
