@@ -6,7 +6,7 @@ body {
 }
 
 .site-header {
-    background-color: #061BB0; /* Primary color */
+    background-color: #0a18a3; /* Primary color */
     color: white;
     padding: 10px 0;
 }
@@ -39,7 +39,7 @@ body {
 }
 
 .nav-list a:hover {
-    color: #1BB006; /* Turn green on hover */
+    color: #56b135; /* Turn green on hover */
     text-decoration: none; /* Remove underline on hover */
 }
 
@@ -63,7 +63,7 @@ body {
 .site-title {
     font-size: 2.5em;
     margin: 20px 0 0;
-    color: #061BB0; /* Primary color */
+    color: #0a18a3; /* Primary color */
 }
 
 .carousel {
@@ -101,7 +101,7 @@ body {
     max-width: 800px;
     margin: 0 auto;
     text-align: center;
-    color: #061BB0; /* Primary color */
+    color: #0a18a3; /* Primary color */
 }
 
 .body-text h2 {
@@ -147,11 +147,11 @@ body {
     font-size: 1.5em;
     margin: 0 0 10px;
     text-decoration: underline;
-    color: #061BB0; /* Primary color */
+    color: #0a18a3; /* Primary color */
 }
 
 .blog-title:hover {
-    color: #1BB006; /* Secondary color */
+    color: #56b135; /* Secondary color */
     text-decoration: none; /* Remove underline on hover */
 }
 
@@ -195,4 +195,16 @@ body {
     .blog-title {
         font-size: 1.2em;
     }
+
+    .fitness-list {
+        list-style: none; /* Removes bullet points */
+        padding: 0;
+        margin-top: 30px;
+        text-align: left;
+        line-height: 1.8;
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
 }
